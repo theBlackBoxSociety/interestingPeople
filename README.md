@@ -1,5 +1,5 @@
 # interestingPeople
-Interesting people to look up
+Interesting people to look up <br>
 <a href="https://julianoliver.com/output/">https://julianoliver.com/output/</a></p>
 <p style="margin-bottom: 0in; line-height: 100%">		<a href="https://criticalengineering.org/en">https://criticalengineering.org/en</a></p>
 <p style="margin-bottom: 0in; line-height: 100%">James Bridle:
