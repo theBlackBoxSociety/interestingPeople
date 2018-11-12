@@ -5,6 +5,7 @@ Interesting people to look up: <br>
 <p style="margin-bottom: 0in; line-height: 100%">		<a href="https://criticalengineering.org/en">https://criticalengineering.org/en</a></p>
 <p style="margin-bottom: 0in; line-height: 100%">James Bridle:
 <a href="https://jamesbridle.com/">https://jamesbridle.com/</a></p>
+
 <p style="margin-bottom: 0in; line-height: 100%">The Yes Men:
 <a href="https://www.youtube.com/watch?v=C3s_pJw7OAU">https://www.youtube.com/watch?v=C3s_pJw7OAU</a></p>
 <p style="margin-bottom: 0in; line-height: 100%">		<a href="https://en.wikipedia.org/wiki/The_Yes_Men">https://en.wikipedia.org/wiki/The_Yes_Men</a></p>
@@ -48,7 +49,7 @@ luksch: <a href="http://www.manuluksch.com/">http://www.manuluksch.com/</a></fon
 <p style="margin-bottom: 0in; line-height: 100%"><font color="#454545"><font face="Helvetica Neue"><font size="2" style="font-size: 9pt"><font face="Liberation Serif, serif"><font size="3" style="font-size: 12pt">wachter/Jud:
 <a href="https://www.wachter-jud.net/">https://www.wachter-jud.net/</a></font></font></font></font></font></p>
 <p style="margin-bottom: 0in; line-height: 100%"><br/>
-
+  
 </p>
 <p style="margin-bottom: 0in; line-height: 100%"><b>Nice films about
 and around digital culture:</b></p>
@@ -64,3 +65,6 @@ Dammbeck): <a href="https://www.youtube.com/watch?v=wr5M6oEx2j4">https://www.you
 <p style="margin-bottom: 0in; line-height: 100%">Gabriella Coleman:
 <a href="https://www.youtube.com/watch?v=vH2taNCNiPQ">https://www.youtube.com/watch?v=vH2taNCNiPQ</a></p>
 <p style="margin-bottom: 0in; line-height: 100%"><br/>
+
+# Some example projects
+- https://no-home-like-place.com/
