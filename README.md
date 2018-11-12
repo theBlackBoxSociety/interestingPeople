@@ -23,7 +23,7 @@
 - [leo selvaggios](http://leoselvaggio.com/)
 - [manu luksch](http://www.manuluksch.com/)
 - [wachter Jud](https://www.wachter-jud.net/)
-- [no home like place](https://no-home-like-place.com/)
+- [Jonathan puckey](https://puckey.studio/) with [no home like place](https://no-home-like-place.com/)
   
 
 # Nice films about and around digital culture:
