@@ -25,6 +25,9 @@
 - [wachter Jud](https://www.wachter-jud.net/)
 - [Jonathan puckey](https://puckey.studio/) with [no home like place](https://no-home-like-place.com/)
 - [Lauren Lee McCarthy](http://lauren-mccarthy.com) 
+- [tactical technology collective](https://tacticaltech.org/) 
+- [exposing the invisible](https://exposingtheinvisible.org/) 
+
   
 
 # Nice films about digital art & culture:
