@@ -28,6 +28,9 @@
 - [tactical technology collective](https://tacticaltech.org/) 
 - [exposing the invisible](https://exposingtheinvisible.org/) 
 - [Simon Denny](http://simondenny.net/) 
+- [Marisa Olson](http://www.marisaolson.com/) 
+- [future farmers](http://futurefarmers.com/) 
+
 
 
   
