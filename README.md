@@ -27,6 +27,8 @@
 - [Lauren Lee McCarthy](http://lauren-mccarthy.com) 
 - [tactical technology collective](https://tacticaltech.org/) 
 - [exposing the invisible](https://exposingtheinvisible.org/) 
+- [Simon Denny](http://simondenny.net/) 
+
 
   
 
