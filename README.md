@@ -16,7 +16,7 @@
 - [JODI](http://jodi.org/)
 - [Metahaven](http://sprawl.space/)
 - [eva & franco mattes](https://0100101110101101.org/)
-- [Heath Bunting](http://irational.org/cgi-bin/cv2/temp.pl)
+- [Heath Bunting](http://irational.org/cgi-bin/cv2/temp.pl) & https://www.youtube.com/watch?v=LlJ9Jet0M2E
 - [fat lab](http://fffff.at/)
 - [ubermorgen](http://www.ubermorgen.com/UM/index.html)
 - [mediagruppe bitnik](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/)
@@ -39,3 +39,4 @@
 - Adam Curtis: [All Watched Over by Machines of Loving Grace, Trailer](https://www.youtube.com/watch?v=YgADKpMStts) & [HyperNormalisation](https://www.youtube.com/watch?v=-fny99f8amM)
 - [The Net by Lutz Dammbeck](https://www.youtube.com/watch?v=wr5M6oEx2j4)
 - [Gabriella Coleman](https://www.youtube.com/watch?v=vH2taNCNiPQ)
+- [hacktivism](https://www.youtube.com/watch?v=iD64TfHoyw4)
